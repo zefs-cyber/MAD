@@ -2,5 +2,5 @@ CACHE MANIFEST
 # Resources to cache – it is a comment
 CACHE:
 index.html
-Images/cat.jpg
-Images/dog.jpg
+/MAD/Images/cat.jpg
+/MAD/Images/dog.jpg
